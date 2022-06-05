@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271533317655",
+    "project_id": "amarjeet314-fb",
+    "storage_bucket": "amarjeet314-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271533317655:android:f40c6cd58914cff8000652",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271533317655-a37u8d1okm7g2md09flp7spov0c32ksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJ1rt3YURtr7DhZt0y5vArNeNGlsezfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271533317655-a37u8d1okm7g2md09flp7spov0c32ksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
